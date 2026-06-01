@@ -2,7 +2,9 @@
 
 ###
 
-<a href="https://app.rocketseat.com.br/me/paulo-victor-00821"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-victor-00821&type=card" width="280" alt="Victor's Rocket ID"/></a>
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/paulo-victor-00821"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-victor-00821&type=card" width="280" alt="Victor's Rocket ID"/></a>
+</div>
 
 ###
 
