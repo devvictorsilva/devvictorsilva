@@ -2,6 +2,10 @@
 
 ###
 
+<a href="https://app.rocketseat.com.br/me/paulo-victor-00821"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=paulo-victor-00821&type=card" width="280" alt="Victor's Rocket ID"/></a>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devvictorsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=devvictorsilva&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
